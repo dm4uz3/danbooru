@@ -1,3 +1,5 @@
+# whats up its ya boy dm4 caching in on them digitalocean free tshirts sunglasses emoji
+
 ## Installation
 
 It is recommended that you install Danbooru on a Debian-based system
