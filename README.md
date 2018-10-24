@@ -1,4 +1,4 @@
-# whats up its ya boy dm4 caching in on them digitalocean free tshirts sunglasses emoji
+# whats up its ya boy dm4 cashing in on them digitalocean free tshirts sunglasses emoji
 
 ## Installation
 
